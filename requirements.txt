@@ -1,2 +1,5 @@
+fastapi==0.115.11
 pigpio==1.78
 pygame==2.6.1
+uvicorn==0.34.0
+websockets==15.0.1
